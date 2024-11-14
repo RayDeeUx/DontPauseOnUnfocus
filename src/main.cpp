@@ -4,7 +4,7 @@ using namespace geode::prelude;
 
 class $modify(MyAppDelegate, AppDelegate) {
 	auto getPauseLayer() {
-		return getChildOfType<PauseLayer>(CCDirector::get()->getRunningScene(), 0);
+		return CCDirector::get()->getRunningScene()->getChildByType<PauseLayer>(0);
 	}
 	void applicationWillResignActive() {
 		AppDelegate::applicationWillResignActive();

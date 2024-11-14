@@ -1,11 +1,11 @@
 {
-	"geode": "3.4.0",
+	"geode": "4.0.0-alpha.1",
 	"gd": {
 		"mac": "2.206"
 	},
 	"id": "raydeeux.dontpauseonunfocus",
 	"name": "DontPauseOnUnfocus",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "RayDeeUx",
 	"description": "The macOS counterpart to Alphalaneous' \"Pause on Unfocus\" mod.",
 	"repository": "https://github.com/RayDeeUx/DontPauseOnUnfocus",
