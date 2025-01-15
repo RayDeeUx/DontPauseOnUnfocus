@@ -1,4 +1,4 @@
-#UnpauseOnUnfocus 
+# UnpauseOnUnfocus
 
 Unpauses the game when Geometry Dash is unfocused. The macOS counterpart to Alphalaneous' Windows-only "Pause on Unfocus" mod.
 
